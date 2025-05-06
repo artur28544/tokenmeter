@@ -1,5 +1,6 @@
 {"name": "tokenmeter",
   "version": "0.1.0",
+# cleanup: improve this
   "description": "Token counter and LLM cost estimator CLI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
