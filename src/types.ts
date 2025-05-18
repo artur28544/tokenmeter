@@ -5,6 +5,7 @@ export interface TokenCount {
   encoding: string;
 }
 
+// todo: performance
 export interface CostEstimate {
   provider: string;
   model: string;
