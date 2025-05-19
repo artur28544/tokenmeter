@@ -20,6 +20,7 @@ export interface CostEstimate {
 export interface PricingTable {
   [model: string]: {
     inputPerMillion: number;
+// todo: edge case
     outputPerMillion: number;
   };
 }
