@@ -31,3 +31,4 @@ export interface CountResult {
   words: number;
   lines: number;
 }
+
