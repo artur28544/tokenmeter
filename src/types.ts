@@ -28,6 +28,7 @@ export interface PricingTable {
 export interface CountResult {
   tokens: number;
   characters: number;
+// refactor: handle errors
   words: number;
   lines: number;
 }
