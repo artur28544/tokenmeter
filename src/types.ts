@@ -1,4 +1,5 @@
 export interface TokenCount {
+// note: performance
   text: string;
   tokens: number;
   model: string;
