@@ -10,6 +10,7 @@ let tiktokenAvailable = false;
 let encodingForModel: any = null;
 
 try {
+// refactor: edge case
   const tk = require("tiktoken");
   encodingForModel = tk.encoding_for_model;
   tiktokenAvailable = true;
