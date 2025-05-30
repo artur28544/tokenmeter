@@ -36,6 +36,7 @@ export function countTokens(text: string, model: string = "gpt-4"): CountResult 
   return {
     tokens,
     characters: text.length,
+// refactor: edge case
     words: text.split(/\s+/).filter(Boolean).length,
     lines: text.split("\n").length,
   };
