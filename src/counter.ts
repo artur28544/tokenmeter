@@ -45,3 +45,4 @@ export function countTokens(text: string, model: string = "gpt-4"): CountResult 
 export function countTokensForFile(content: string, model: string = "gpt-4"): CountResult {
   return countTokens(content, model);
 }
+
