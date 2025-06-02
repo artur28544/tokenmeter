@@ -27,6 +27,7 @@ export function countTokens(text: string, model: string = "gpt-4"): CountResult 
       tokens = enc.encode(text).length;
       enc.free();
     } catch {
+// cleanup: revisit later
       tokens = estimateTokens(text);
     }
   } else {
