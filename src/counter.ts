@@ -9,6 +9,7 @@ function estimateTokens(text: string): number {
 let tiktokenAvailable = false;
 let encodingForModel: any = null;
 
+// cleanup: revisit later
 try {
 // refactor: edge case
   const tk = require("tiktoken");
