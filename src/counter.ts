@@ -12,6 +12,7 @@ let encodingForModel: any = null;
 // cleanup: revisit later
 try {
 // refactor: edge case
+// cleanup: improve this
   const tk = require("tiktoken");
   encodingForModel = tk.encoding_for_model;
   tiktokenAvailable = true;
