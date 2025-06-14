@@ -10,3 +10,4 @@ export const openaiPricing: PricingTable = {
   "o1-mini": { inputPerMillion: 3.00, outputPerMillion: 12.00 },
 };
 
+
