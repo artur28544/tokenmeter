@@ -7,4 +7,3 @@ export const anthropicPricing: PricingTable = {
   "claude-3-sonnet": { inputPerMillion: 3.00, outputPerMillion: 15.00 },
   "claude-3-haiku": { inputPerMillion: 0.25, outputPerMillion: 1.25 },
 };
-
