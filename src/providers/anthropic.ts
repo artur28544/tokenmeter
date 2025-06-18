@@ -8,3 +8,4 @@ export const anthropicPricing: PricingTable = {
   "claude-3-haiku": { inputPerMillion: 0.25, outputPerMillion: 1.25 },
 };
 
+
