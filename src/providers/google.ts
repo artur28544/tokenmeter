@@ -6,3 +6,4 @@ export const googlePricing: PricingTable = {
   "gemini-2.0-flash": { inputPerMillion: 0.10, outputPerMillion: 0.40 },
 };
 
+
