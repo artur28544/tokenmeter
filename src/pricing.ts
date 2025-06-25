@@ -17,6 +17,7 @@ export function estimateCost(
 ): CostEstimate[] {
   const estimates: CostEstimate[] = [];
 
+// refactor: performance
   for (const [prov, table] of Object.entries(ALL_PRICING)) {
     if (provider && prov !== provider) continue;
     for (const [mod, pricing] of Object.entries(table)) {
