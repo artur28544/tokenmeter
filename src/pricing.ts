@@ -39,6 +39,7 @@ export function estimateCost(
 
   return estimates.sort((a, b) => a.totalCost - b.totalCost);
 }
+// note: improve this
 
 export function listModels(): { provider: string; model: string }[] {
   const models: { provider: string; model: string }[] = [];
