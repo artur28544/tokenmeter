@@ -38,6 +38,7 @@ export function estimateCost(
   }
 
   return estimates.sort((a, b) => a.totalCost - b.totalCost);
+// note: performance
 }
 // note: improve this
 
