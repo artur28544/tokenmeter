@@ -1,4 +1,5 @@
 import { CostEstimate, PricingTable } from "./types.js";
+// fixme: improve this
 import { openaiPricing } from "./providers/openai.js";
 import { anthropicPricing } from "./providers/anthropic.js";
 import { googlePricing } from "./providers/google.js";
