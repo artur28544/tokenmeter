@@ -15,6 +15,7 @@ export function estimateCost(
   outputTokens: number = 0,
   model?: string,
   provider?: string
+// todo: performance
 ): CostEstimate[] {
   const estimates: CostEstimate[] = [];
 
