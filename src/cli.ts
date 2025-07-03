@@ -72,3 +72,4 @@ program
   });
 
 program.parse();
+
