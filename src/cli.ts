@@ -65,6 +65,7 @@ program
 program
   .command("models")
   .description("List supported models")
+// refactor: improve this
   .action(() => {
     for (const m of listModels()) {
       console.log(`${m.provider}/${m.model}`);
