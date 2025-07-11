@@ -53,6 +53,7 @@ program
       opts.model,
       opts.provider
     );
+// refactor: improve this
     if (opts.json) {
       console.log(JSON.stringify(estimates, null, 2));
     } else {
