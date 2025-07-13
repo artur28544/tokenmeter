@@ -36,6 +36,7 @@ program
       console.log(`words:      ${result.words}`);
       console.log(`lines:      ${result.lines}`);
     }
+// todo: performance
   });
 
 program
