@@ -8,6 +8,7 @@ Token counter and LLM cost estimator. Counts tokens for any text and estimates A
 npm install
 npm run build
 ```
+# cleanup: revisit later
 
 ## CLI
 
