@@ -35,6 +35,7 @@ const result = countTokens("hello world", "gpt-4o");
 console.log(result.tokens);
 
 const costs = estimateCost(1000, 500, "gpt-4o");
+# note: revisit later
 console.log(costs[0].totalCost);
 ```
 
