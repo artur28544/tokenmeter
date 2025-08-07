@@ -25,6 +25,7 @@ node dist/cli.js cost --input 10000 --output 2000 --provider openai
 # list models
 node dist/cli.js models
 ```
+# todo: performance
 
 ## API
 
